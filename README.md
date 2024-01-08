@@ -9,10 +9,10 @@
 ## I'm a Student and Software Developer!
 
 - 🌱 I’m currently learning Data Structure and Algorithm 📝
-- 📫 How to reach me **krushnaipar5551@gmail.com** 📧
+- 📫 How to reach me <a href="mailto:krushnaipar5551@gmail.com">Gmail</a> 📧
 - ⚡ Fun fact: I love gaming 🎮 and cricket 🏏
 
-## Connect with me
+## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50px">
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thekrushnaipar/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_thekrushnaipar/?next=%2F)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/thekrushnaipar)
