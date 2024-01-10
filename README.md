@@ -59,5 +59,4 @@
 ## ⌨️ Most Used Languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekrushnaipar&layout=compact&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="thekrushnaipar" /></p>
 
-## 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=thekrushnaipar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
